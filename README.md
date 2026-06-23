@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
+<div align="center">
 
-<h3 align="center">🚀 BTech CSE Student | Full Stack Developer | AWS Learner</h3>
+# 👋 Hi, I'm Rohit Sharma
 
-<p align="center">
+### 🚀 BTech CSE Student | Full Stack Developer | AWS Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AWS+Cloud+Learner;DSA+Enthusiast;Building+AI+Powered+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AWS+Cloud+Learner;DSA+Enthusiast;Building+AI+Powered+Projects"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Rohitsharma2845/Rohitsharma2845/main/profile.jpg" width="220"/>
-
-</p>
+</div>
 
 ---
 
@@ -20,13 +14,13 @@
 
 * 🎓 BTech CSE Student (2023 - 2027)
 
-* 🌱 Currently learning **DSA, AWS, MERN Stack**
+* 🌱 Currently learning **DSA, AWS & MERN Stack**
 
 * 💻 Building scalable Full Stack applications
 
 * ☁️ AWS Cloud Practitioner Learner
 
-* 🧠 Interested in AI-powered products
+* 🧠 Passionate about AI-powered products and solving real-world problems
 
 * 👨‍💻 Ask me about **Python, C, C++, Java, JavaScript**
 
@@ -38,7 +32,7 @@
 
 ### Languages
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript"/>
 
@@ -46,7 +40,7 @@
 
 ### Frontend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 
@@ -54,7 +48,7 @@
 
 ### Backend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
@@ -62,7 +56,7 @@
 
 ### Database & Tools
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,aws"/>
 
@@ -70,19 +64,35 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-🧠 **Sensai**
+<a href="https://github.com/Rohitsharma2845/Sensai">
 
-🤖 **QuickAI**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsharma2845&repo=Sensai&theme=tokyonight"/>
 
-🔐 **StegaX**
+</a>
+
+<br><br>
+
+<a href="https://github.com/Rohitsharma2845/QuickAI">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsharma2845&repo=QuickAI&theme=tokyonight"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/Rohitsharma2845/Complete_Backend">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsharma2845&repo=Complete_Backend&theme=tokyonight"/>
+
+</a>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/rohit-sharma-2803c1002/">
 
@@ -90,7 +100,7 @@
 
 </a>
 
-  
+    
 
 <a href="https://leetcode.com/u/Rohitsharma2845/">
 
@@ -102,17 +112,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rohitsharma2845&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rohitsharma2845&show_icons=true&theme=tokyonight"/>
 
-<br><br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsharma2845&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitsharma2845&layout=compact&theme=tokyonight"/>
+</p>
 
-<br><br>
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Rohitsharma2845&theme=tokyonight"/>
 
@@ -120,10 +130,18 @@
 
 ---
 
-## 🏆 Profile Views
+## 🐍 Contribution Snake
 
-<p>
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Rohitsharma2845&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://raw.githubusercontent.com/Rohitsharma2845/Rohitsharma2845/output/github-snake-dark.svg"/>
 
 </p>
+
+---
+
+<div align="center">
+
+### 💡 Code • Learn • Build • Repeat 🚀
+
+</div>
