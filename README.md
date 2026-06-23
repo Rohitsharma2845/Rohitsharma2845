@@ -26,6 +26,8 @@
 
 * 📫 Reach me at **[rohits6653@gmail.com](mailto:rohits6653@gmail.com)**
 
+📍 India 🇮🇳
+
 ---
 
 ## 🛠️ Tech Stack
@@ -66,27 +68,31 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/Rohitsharma2845/Sensai">
+### 🧠 Sensai
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsharma2845&repo=Sensai&theme=tokyonight"/>
+> AI-powered career and interview preparation platform.
 
-</a>
+🌐 Live Demo: https://sensai-rosy-beta.vercel.app/
 
-<br><br>
+🛠️ Tech: Next.js • PostgreSQL • Clerk • AI
 
-<a href="https://github.com/Rohitsharma2845/QuickAI">
+---
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsharma2845&repo=QuickAI&theme=tokyonight"/>
+### 🤖 QuickAI
 
-</a>
+> AI productivity platform with multiple AI-powered tools.
 
-<br><br>
+🌐 Live Demo: https://quick-ai-one-beta.vercel.app/
 
-<a href="https://github.com/Rohitsharma2845/Complete_Backend">
+🛠️ Tech: React • Node.js • PostgreSQL • Clerk
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohitsharma2845&repo=Complete_Backend&theme=tokyonight"/>
+---
 
-</a>
+### ⚙️ Complete_Backend
+
+> Backend development concepts including REST APIs, authentication and database integration.
+
+🛠️ Tech: Node.js • Express • MongoDB • SQL
 
 ---
 
