@@ -1,4 +1,6 @@
+# Replace your entire README.md with this:
 
+````md
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:6D28D9,100:7C3AED&text=Rohit%20Sharma&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=60"/>
 </p>
@@ -11,11 +13,17 @@
 <a href="mailto:rohitsh6653@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/rohit-sharma-2803c1002">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Rohitsharma2845">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://rohit-portfolio-tau-orpin.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
 
@@ -36,6 +44,8 @@
 🧠 Improving problem-solving skills through Data Structures, Algorithms, and LeetCode
 
 🎯 Currently focused on AI-powered applications and scalable backend systems
+
+🌐 Portfolio: https://rohit-portfolio-tau-orpin.vercel.app/
 
 ---
 
@@ -73,6 +83,7 @@
 <summary><b>🚀 Sensai — AI Career & Interview Preparation Platform</b></summary>
 
 ### Tech Stack
+
 Next.js • PostgreSQL • Clerk Authentication • AI APIs
 
 ### Highlights
@@ -83,12 +94,15 @@ Next.js • PostgreSQL • Clerk Authentication • AI APIs
 - PostgreSQL database integration
 - Responsive and modern UI
 
+**Repository:** https://github.com/Rohitsharma2845/Sensai
+
 </details>
 
 <details>
 <summary><b>🚀 QuickAI — AI Content & Image Generation Platform</b></summary>
 
 ### Tech Stack
+
 React.js • Node.js • Express.js • MongoDB
 
 ### Highlights
@@ -99,12 +113,15 @@ React.js • Node.js • Express.js • MongoDB
 - MongoDB integration
 - Responsive frontend design
 
+**Repository:** https://github.com/Rohitsharma2845/QuickAI
+
 </details>
 
 <details>
 <summary><b>🚀 Complete Backend</b></summary>
 
 ### Tech Stack
+
 Node.js • Express.js • MongoDB
 
 ### Highlights
@@ -114,12 +131,15 @@ Node.js • Express.js • MongoDB
 - Backend architecture concepts
 - Database integration
 
+**Repository:** https://github.com/Rohitsharma2845/Complete_Backend
+
 </details>
 
 <details>
 <summary><b>🚀 React Learning Projects</b></summary>
 
 ### Tech Stack
+
 React.js
 
 ### Highlights
@@ -128,6 +148,8 @@ React.js
 - State management
 - API integration
 - Responsive UI development
+
+**Repository:** https://github.com/Rohitsharma2845/react
 
 </details>
 
@@ -166,6 +188,8 @@ Computer Society
 - Sliding Window
 - Binary Search
 - Dynamic Programming
+
+**LeetCode Profile:** https://leetcode.com/u/Rohitsharma2845/
 
 ---
 
@@ -223,6 +247,10 @@ Open To:
 
 <a href="https://github.com/Rohitsharma2845">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://rohit-portfolio-tau-orpin.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
