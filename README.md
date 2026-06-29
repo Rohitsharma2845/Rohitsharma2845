@@ -1,6 +1,4 @@
-# Replace your entire README.md with this:
 
-````md
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:6D28D9,100:7C3AED&text=Rohit%20Sharma&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20CSE&descAlignY=60"/>
 </p>
